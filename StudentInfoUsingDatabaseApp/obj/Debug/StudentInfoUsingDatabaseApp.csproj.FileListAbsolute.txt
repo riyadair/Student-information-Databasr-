@@ -1,0 +1,9 @@
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\bin\Debug\StudentInfoUsingDatabaseApp.exe.config
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\bin\Debug\StudentInfoUsingDatabaseApp.exe
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\bin\Debug\StudentInfoUsingDatabaseApp.pdb
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\obj\Debug\StudentInfoUsingDatabaseApp.csprojResolveAssemblyReference.cache
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\obj\Debug\StudentInfoUsingDatabaseApp.Properties.Resources.resources
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\obj\Debug\StudentInfoUsingDatabaseApp.StudentInformationUI.resources
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\obj\Debug\StudentInfoUsingDatabaseApp.csproj.GenerateResource.Cache
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\obj\Debug\StudentInfoUsingDatabaseApp.exe
+E:\Net\Riyad\Database\StudentInfoUsingDatabaseApp\StudentInfoUsingDatabaseApp\obj\Debug\StudentInfoUsingDatabaseApp.pdb
